@@ -1,4 +1,4 @@
-# LangChain & Google Generative AI Web Scraper
+# AI-Powered-Web-Text-Scraper-and-Q-A
 
 This project is a powerful tool that combines **LangChain** document loading, **Google Generative AI**, and web scraping with **BeautifulSoup** to fetch and process data from webpages, PDFs, and other formats. It utilizes **FAISS** to store vectorized text data, enabling efficient search and question answering.
 
